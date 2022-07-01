@@ -1,13 +1,15 @@
 #-*- coding: utf-8 -*-
 #
+# C4D Korean User Group Q&A Search Plug-in (Ver.2.0) by AJ
+# E-mail : narshe@naver.com
 
 import os
 import webbrowser
 import c4d
 from c4d import bitmaps, gui, plugins
 
-PLUGIN_ID = 1059741
 
+PLUGIN_ID = 1059741
 
 
 class C4DKUGSearchWindow(gui.GeDialog):
