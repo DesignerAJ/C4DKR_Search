@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 #
-# C4D Korean User Group Q&A Search Plug-in (Ver.2.0) by AJ
+# C4D Korean User Group Q&A Search Plug-in (Ver.1.0) by AJ
 # E-mail : narshe@naver.com
 
 import os
